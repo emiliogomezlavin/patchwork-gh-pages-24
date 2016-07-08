@@ -3,7 +3,7 @@ title: Emilio's Profile
 email: emiliogomezlavin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer * Marketeer * Musician
-baseurl: "/"
+baseurl: "/about"
 url: "http://emiliogomezlavin.github.io"
 twitter_username: @emiliogomlav
 github_username:  emiliogomezlavin
