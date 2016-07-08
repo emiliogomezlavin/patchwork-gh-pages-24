@@ -1,14 +1,14 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "https://i.ytimg.com/vi/sfA0tZgtSeg/maxresdefault.jpg"
+name: "Emilio Gomez Lavin"
+title: "Full Stack Developer"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Emilio is a recent Web Development graduate with experience in Marketing and Finance*
 
 His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Emilio is available for projects on a case by case basis. Some of the services he provides include:
 
 #### Strategic Consulting
 * Competitive analysis
